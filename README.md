@@ -1,3 +1,7 @@
 # dosa project initiate
-need dosa flour
-light oil required for plain dosa
+dosa flour
+karam
+# egg dosa preparation by r2
+4 eggs
+oil
+karam
